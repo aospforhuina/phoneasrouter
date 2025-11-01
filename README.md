@@ -7,4 +7,4 @@ if you have limited router ex: school router
 you can bypass school router 
 
 how to useeeee 
-``su -c curl -O blob:https://github.com/892f62ec-78f8-4512-a5ac-f37ca43aeb15 && sudo chmod 777 bash.sh && sudo ./bash.sh``
+``curl -O bash.sh https://github.com/892f62ec-78f8-4512-a5ac-f37ca43aeb15 && sudo chmod 777 bash.sh && sudo ./bash.sh``
