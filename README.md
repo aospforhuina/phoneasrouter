@@ -1,0 +1,2 @@
+# phoneasrouter
+bullshit samsung nahh
