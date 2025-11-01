@@ -7,4 +7,4 @@ if you have limited router ex: school router
 you can bypass school router 
 
 how to useeeee 
-``https://raw.githubusercontent.com/aospforhuina/phoneasrouter/refs/heads/main/bash.sh && sudo chmod 777 bash.sh && sudo ./bash.sh``
+``curl -O bash.sh https://raw.githubusercontent.com/aospforhuina/phoneasrouter/refs/heads/main/bash.sh && sudo chmod 777 bash.sh && sudo ./bash.sh``
